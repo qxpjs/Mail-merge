@@ -16,10 +16,12 @@ This script uses a pre-fabricated page and uses it as a template to create as ma
 ### Notes
 This sample ships with QuarkXPress 2018
 ### Screenshots
-Template (qxp file):  
+Step 1: Create Template (qxp file):  
 ![QuarkXPress document](http://www.quarkforums.com/resources/git/md_images/mailmerge3.png)  
-Data (csv file):     
+Step 2: Provide data (here: csv file with 3 records):     
 ![CSV file](http://www.quarkforums.com/resources/git/md_images/mailmerge2.png)  
+Step 3: Run script and get final document, ready to export as PDF (here: with 3 pages):  
+![Final layout](http://www.quarkforums.com/resources/git/md_images/mailmerge4.png)  
 Video:  
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Z5olohxEasg/0.jpg)](http://www.youtube.com/watch?v=Z5olohxEasg)  
 
