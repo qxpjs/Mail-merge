@@ -23,7 +23,7 @@ Step 2: Provide data (here: csv file with 3 records):
 Step 3: Run script and get final document, ready to export as PDF (here: with 3 pages):  
 ![Final layout](http://www.quarkforums.com/resources/git/md_images/mailmerge4.png)  
 Video:  
-[![Video showing Mail Merge in QuarkXPress](http://img.youtube.com/vi/DkRw2-TF4dU/0.jpg)](http://www.youtube.com/watch?v=DkRw2-TF4dU)  
+[![Video showing Mail Merge in QuarkXPress](http://www.quarkforums.com/resources/git/md_images/mailmerge_movie_preview.jpg)](http://www.youtube.com/watch?v=DkRw2-TF4dU)  
 
 ### Version History  
 May 2018: Original version as supplied with QuarkXPress 2018
