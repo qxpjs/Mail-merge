@@ -17,7 +17,7 @@ This script uses a pre-fabricated page and uses it as a template to create as ma
 This sample ships with QuarkXPress 2018
 ### Screenshots
 Template (qxp file):  
-![QuarkXPress document](http://www.quarkforums.com/resources/git/md_images/mailmerge0.png)  
+![QuarkXPress document](http://www.quarkforums.com/resources/git/md_images/mailmerge1.png)  
 Data (csv file):     
 ![CSV file](http://www.quarkforums.com/resources/git/md_images/mailmerge2.png)  
 Video:  
