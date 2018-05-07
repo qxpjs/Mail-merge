@@ -5,7 +5,7 @@ This JavaScript needs to be installed in QuarkXPress 2018. Feel free to modify t
 ## What it does
 This script uses a pre-fabricated page and uses it as a template to create as many pages as the number of records found in a VALID csv file.
 ### Prerequisites
-- You need to cretae a document that can be used as a "template"
+- You need to create a document that can be used as a "template"
 - The text and images to import data must be on the master page and not on the first page
 - The text to be imported must be enclosed in braces as <<tagname>> and the tag name is the data of first tuple of the csv
 - You need a csv (comma separated values) file containing your data
